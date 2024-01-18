@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://w7vsx1wc04sw"]
+
+[ext_resource type="Script" path="res://addons/debug-start/start-debug-scene.gd" id="1_7f8wb"]
+
+[node name="StartDebugScene" type="Button"]
+script = ExtResource("1_7f8wb")
